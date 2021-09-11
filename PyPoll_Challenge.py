@@ -12,7 +12,7 @@ file_to_save = os.path.join("analysis", "election_analysis.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
-vote_count = 0
+
 
 # Candidate Options and candidate votes.
 candidate_options = []
